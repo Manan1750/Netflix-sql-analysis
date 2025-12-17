@@ -35,13 +35,13 @@ genre distribution, ratings, and country-wise availability.
  ## 📸 Sample Outputs
 
 ### Country-wise Content Distribution
-![Country Distribution](screenshots/country_wise_content.png)
+![Country Distribution](screenshots/country_wise_content.png.png)
 
 ### Movies vs TV Shows
-![Movies vs TV Shows](screenshots/movies_vs_tv.png)
+![Movies vs TV Shows](screenshots/movies_vs_tv.png.png)
 
 ### Total Titles
-![Total Titles](screenshots/total_titles.png)
+![Total Titles](screenshots/total_titles.png.png)
 
  
 
