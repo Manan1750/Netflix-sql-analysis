@@ -48,3 +48,6 @@ genre distribution, ratings, and country-wise availability.
 ## 🚀 Live Demo
 (Added below 👇)
 # Netflix-sql-analysis
+🔴 **Live Demo:** https://Manan1750.github.io/Netflix-sql-analysis/
+
+📂 **GitHub Repository:** https://github.com/Manan1750/Netflix-sql-analysis
