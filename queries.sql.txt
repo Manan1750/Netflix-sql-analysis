@@ -1,0 +1,30 @@
+-- Netflix SQL Data Analysis
+
+-- Total number of titles
+SELECT COUNT(*) AS total_titles
+FROM netflix;
+
+-- Movies vs TV Shows
+SELECT type, COUNT(*) AS total
+FROM netflix
+GROUP BY type;
+
+-- Titles released per year
+SELECT release_year, COUNT(*) AS total_titles
+FROM netflix
+GROUP BY release_year
+ORDER BY release_year;
+
+-- Top 10 countries by content
+SELECT country, COUNT(*) AS total_titles
+FROM netflix
+WHERE country IS NOT NULL
+GROUP BY country
+ORDER BY total_titles DESC
+LIMIT 10;
+
+-- Ratings distribution
+SELECT rating, COUNT(*) AS total_titles
+FROM netflix
+GROUP BY rating
+ORDER BY total_titles DESC;
