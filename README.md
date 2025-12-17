@@ -32,6 +32,19 @@ genre distribution, ratings, and country-wise availability.
 - `queries.sql` – SQL queries used for analysis
 - `screenshots/` – output screenshots
 
+ ## 📸 Sample Outputs
+
+### Country-wise Content Distribution
+![Country Distribution](screenshots/country_wise_content.png)
+
+### Movies vs TV Shows
+![Movies vs TV Shows](screenshots/movies_vs_tv.png)
+
+### Total Titles
+![Total Titles](screenshots/total_titles.png)
+
+ 
+
 ## 🚀 Live Demo
 (Added below 👇)
 # Netflix-sql-analysis
